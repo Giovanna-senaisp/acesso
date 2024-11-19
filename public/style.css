@@ -1,0 +1,54 @@
+/* Estilo do corpo da página */
+body {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-image: url(fundo.png);
+    background-size: cover;
+    margin: 20px;
+    color: white;
+}
+
+/* Estilo do título */
+h1 {
+    color: #ffffff;
+    font-size: 50px;
+}
+
+/* Estilo da tabela */
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+/* Estilo das células e cabeçalhos */
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    color: #ff5733;  /* Cor do texto para todas as células */
+}
+
+/* Estilo específico para os cabeçalhos */
+th {
+    background-color: #007bff;
+    color: #ffffff;  /* Cor do texto no cabeçalho */
+}
+
+/* Estilo específico para as células de dados */
+td {
+    color: #ff5733;  /* Cor do texto nas células de dados */
+}
+
+/* Cores específicas para as 3 páginas mais acessadas */
+.highlight1 {
+    color: #ff0000;  /* Vermelho */
+    font-weight: bold;
+}
+
+.highlight2 {
+    color: #00ff00;  /* Verde */
+    font-weight: bold;
+}
+
+.highlight3 {
+    color: #0000ff;  /* Azul */
+    font-weight: bold;
+}
