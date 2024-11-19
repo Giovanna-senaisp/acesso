@@ -19,7 +19,7 @@ const pageNames = {
   '/matthew-hall': 'Matthew Hall',
   'sofia-froza': 'Sofia Froza',
   'linguagem': 'Linguagem',
-  'lya-mendes': 'Lya Mendes',
+  'lya-mendes': 'Lya Mendes',idc
   'wiona-oak': 'Wiona Oak',
   'bem': 'Bem',
   'sessa': 'Sessa',
